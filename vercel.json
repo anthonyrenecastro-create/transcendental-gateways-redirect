@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://play.google.com/store/apps/developer?id=Axiom+Zeta+Innovations",
+      "permanent": false
+    }
+  ]
+}
